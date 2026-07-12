@@ -1,3 +1,5 @@
+> **ABSORBED into the plurnk platform monorepo** — code, history, and issues now live in [`plurnk/plurnk-service`](https://github.com/plurnk/plurnk-service) under `plurnk-execs-sqlite/`. This repo is an archived snapshot.
+
 # @plurnk/plurnk-execs-sqlite
 
 SQLite runtime executor for [plurnk-service](https://github.com/plurnk/plurnk-service)'s `exec` scheme. Runs the `sqlite` runtime tag **in-process** via Node's builtin `node:sqlite` — no subprocess.
